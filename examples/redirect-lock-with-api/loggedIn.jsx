@@ -8,7 +8,7 @@ var LoggedIn = React.createClass({
     }, function() {
       alert("You need to download the server seed and start it to call this API");
     });
-  }
+  },
 
   getInitialState: function() {
     return {
