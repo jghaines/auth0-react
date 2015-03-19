@@ -2,7 +2,7 @@
 
 This is the seed project you need to use if you're going to create an app that will use Auth0, React and an API that you're going to be developing. That API can be in any language.
 
-To see the example working, just go to http://auth0.github.io/auth0-react/examples/popup-lock-with-api/
+To see the example working, just go to [http://auth0.github.io/auth0-react/examples/redirect-lock-with-api/](http://auth0.github.io/auth0-react/examples/redirect-lock-with-api/)
 
 ## Running the example
 
