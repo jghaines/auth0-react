@@ -1,6 +1,6 @@
 # Auth0 - React
 
-In this repository, you'll find all the information about integrating Auth0 with React.
+In this repository, you'll find all the information about integrating Auth0 with [React](https://facebook.github.io/react/).
 
 To read the documentation, please [Click here](TODO://)
 
